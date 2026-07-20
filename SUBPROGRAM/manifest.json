@@ -4,5 +4,11 @@
     "name": "الآلة الحاسبة",
     "desc": "آلة حاسبة بسيطة لحساب المعادلات",
     "folder": "example-calculator"
+  } ,
+  {
+    "id": "dict_v_one",
+    "name": "قاموس الكلمات",
+    "desc": "قاموس غير ناطق",
+    "folder": "unspeller_dict"
   }
 ]
